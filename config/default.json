@@ -1,0 +1,10 @@
+{
+  "port": 3010,
+  "db_host": "localhost",
+  "db_username": "postgres",
+  "db_password": "5432",
+  "db_port": 5432,
+  "db_name": "e-navbat",
+  "crypt_password":"Very_very_Srcret_P@55w0rd",
+  "iv":"28408e12"
+}
